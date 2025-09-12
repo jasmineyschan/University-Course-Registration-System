@@ -1,0 +1,19 @@
+# editor settings
+.vscode
+.DS_Store
+
+# files
+*.docx
+*.xlsx
+*.pdf
+*.pages
+*.pptx
+*.key
+*.out
+
+# ignore everything
+*
+# unignore anything in a directory
+!*/
+# unignore all files with an extension
+!*.*

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "string_view": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "span": "cpp",
+        "variant": "cpp"
+    }
+}

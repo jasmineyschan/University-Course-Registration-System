@@ -1,0 +1,18 @@
+1
+Alice
+Smith
+12-01-2002
+S001
+2
+CS101
+Intro to CS
+Dr. John
+3
+S001
+CS101
+3
+S001
+CS101
+5
+S001
+0
